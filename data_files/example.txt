@@ -1,0 +1,2 @@
+Hello, Everyone!
+I am learning Python Programming.Learning Python Programming is fun.

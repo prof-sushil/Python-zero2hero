@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Ram",
+        "age": 21,
+        "address": "Lalitpur",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            88,
+            85,
+            77,
+            79
+        ]
+    },
+    {
+        "name": "Mohan",
+        "age": 21,
+        "address": "Butwal",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            73,
+            60,
+            92,
+            71
+        ]
+    },
+    {
+        "name": "Shyam",
+        "age": 22,
+        "address": "Kathmandu",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            69,
+            76,
+            70,
+            61
+        ]
+    },
+    {
+        "name": "Rupa",
+        "age": 24,
+        "address": "Itahari",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            93,
+            100,
+            85,
+            78
+        ]
+    },
+    {
+        "name": "Kumar",
+        "age": 19,
+        "address": "Dhangadhi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            84,
+            80,
+            89,
+            92
+        ]
+    },
+    {
+        "name": "Sunita",
+        "age": 20,
+        "address": "Janakpur",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            67,
+            93,
+            62,
+            85
+        ]
+    },
+    {
+        "name": "Manish",
+        "age": 18,
+        "address": "Nepalgunj",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            77,
+            92,
+            89,
+            71
+        ]
+    },
+    {
+        "name": "Mina",
+        "age": 22,
+        "address": "Bharatpur",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            80,
+            96,
+            97,
+            76
+        ]
+    },
+    {
+        "name": "Raj",
+        "age": 25,
+        "address": "Biratnagar",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            94,
+            75,
+            68,
+            96
+        ]
+    },
+    {
+        "name": "Shiva",
+        "age": 19,
+        "address": "Pokhara",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            75,
+            68,
+            82,
+            90
+        ]
+    },
+    {
+        "name": "Rita",
+        "age": 20,
+        "address": "Biratnagar",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            98,
+            64,
+            62,
+            84
+        ]
+    },
+    {
+        "name": "Sita",
+        "age": 22,
+        "address": "Nepalgunj",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            69,
+            86,
+            86,
+            95
+        ]
+    },
+    {
+        "name": "Gita",
+        "age": 18,
+        "address": "Birgunj",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            96,
+            87,
+            79,
+            62
+        ]
+    },
+    {
+        "name": "Gopal",
+        "age": 20,
+        "address": "Itahari",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            63,
+            74,
+            91,
+            86
+        ]
+    },
+    {
+        "name": "Sushma",
+        "age": 24,
+        "address": "Ghorahi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            89,
+            66,
+            92,
+            88
+        ]
+    },
+    {
+        "name": "Bina",
+        "age": 22,
+        "address": "Ghorahi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            96,
+            93,
+            100,
+            84
+        ]
+    },
+    {
+        "name": "Sarita",
+        "age": 19,
+        "address": "Dhangadhi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            82,
+            90,
+            97,
+            79
+        ]
+    },
+    {
+        "name": "Mina",
+        "age": 21,
+        "address": "Kathmandu",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            68,
+            70,
+            71,
+            60
+        ]
+    },
+    {
+        "name": "Nita",
+        "age": 18,
+        "address": "Ghorahi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            86,
+            80,
+            75,
+            89
+        ]
+    },
+    {
+        "name": "Hari",
+        "age": 24,
+        "address": "Ghorahi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            80,
+            61,
+            74,
+            88
+        ]
+    },
+    {
+        "name": "Ravi",
+        "age": 18,
+        "address": "Biratnagar",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            87,
+            89,
+            86,
+            75
+        ]
+    },
+    {
+        "name": "Ganesh",
+        "age": 18,
+        "address": "Nepalgunj",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            94,
+            74,
+            99,
+            96
+        ]
+    },
+    {
+        "name": "Manish",
+        "age": 20,
+        "address": "Hetauda",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            63,
+            62,
+            63,
+            68
+        ]
+    },
+    {
+        "name": "Tina",
+        "age": 18,
+        "address": "Dharan",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            90,
+            66,
+            97,
+            84
+        ]
+    },
+    {
+        "name": "Kumar",
+        "age": 23,
+        "address": "Itahari",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            78,
+            63,
+            62,
+            63
+        ]
+    },
+    {
+        "name": "Krishna",
+        "age": 25,
+        "address": "Ghorahi",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            97,
+            82,
+            97,
+            60
+        ]
+    },
+    {
+        "name": "Shyam",
+        "age": 19,
+        "address": "Nepalgunj",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            68,
+            73,
+            95,
+            72
+        ]
+    },
+    {
+        "name": "Tina",
+        "age": 23,
+        "address": "Hetauda",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            69,
+            84,
+            91,
+            75
+        ]
+    },
+    {
+        "name": "Sunita",
+        "age": 25,
+        "address": "Hetauda",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            61,
+            100,
+            87,
+            78
+        ]
+    },
+    {
+        "name": "Manish",
+        "age": 25,
+        "address": "Janakpur",
+        "courses": [
+            "Math",
+            "Science",
+            "Social",
+            "Art"
+        ],
+        "marks": [
+            78,
+            93,
+            95,
+            83
+        ]
+    }
+]
