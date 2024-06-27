@@ -1,2 +1,2 @@
 /tutorials/building_python_modules/myvenv/
-*/__pycache__/
+**/__pycache__/
