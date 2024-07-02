@@ -18,3 +18,35 @@ This repository contains a comprehensive Python tutorial designed to take you fr
   - Create simple function interfaces using advanced arguments types, including keyword arguments and variadic arguments.
   - Create functional programs, using map/filter, reduce, lambdas, iterators, and generators
   - Create decorators, high-level tools to transform functional behavior.
+
+- [Object Oriented Programming in Python](tutorials/oop_in_python.ipynb)
+  - Trace the details of instantiation and attribute resolution on class objects and instance objects.
+  - Create classes with custom methods, including initializers and decorated properties.
+  - Analyze object-based design patterns, including polymorphism and inheritance.
+
+- [File I/O Operations in Python](tutorials/file_operations_in_python.ipynb)
+  - Understand the principles of files and file systems, in order to open files for reading or writing.
+  - Create programs that can read data from or write data to a plain text file.
+  - Create programs that can read or write JSON data.
+  - Create programs that can read or write CSV data.
+
+- [Building Python Modules](tutorials/building_python_modules)
+  - Understand modular programming to reuse functional units of code.
+  - Organize multiple modules as a package.
+  - Relative and absolute imports of modules and packages.
+
+- [Working with Libraries](tutorials/working_with_libraries.md)
+  - Working with standard python libraries
+  - Install and use open source third party libraries to solve complex problems.
+  - Learn how to use virtual environments to maintain clear dependency states during development.
+
+- [Unit Testing & Exception Handling](tutorials/unit_testing_and_exception_handling/unit_testing_and_exception_handling_in_python.ipynb)
+  - Understand Unit Testing and write test cases using standard python library unittest
+  - Use third party library-pytest for writing simple and powerful test cases.
+  - Exception handling using try, except and finally
+  - Writing Custom Exceptions
+
+- [Standard Coding Practice](tutorials/pep8_style_guide.ipynb)
+  - PEP standards to write clear, compliant code.
+  - Understand core Pythonic principles to write code that can scale.
+  - Explore pylint library

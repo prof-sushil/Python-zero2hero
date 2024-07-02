@@ -24,5 +24,6 @@ print("__name__ variable of geometry module: ", __name__)
 # And remaining files will have __name__ variable as the name of the file
 
 if __name__ == "__main__":
+    # This block of code will be executed only when we run this file directly
     print("Area of rectangle with l=5 and b=2: ", area(5, 2))
     print("Perimeter of rectangle with l=5 and b=2: ", perimeter(5, 2))

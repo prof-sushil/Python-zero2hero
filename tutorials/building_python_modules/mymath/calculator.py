@@ -23,5 +23,6 @@ print("__name__ variable of calculator module: ", __name__)
 # And remaining files will have __name__ variable as the name of the file
 
 if __name__ == "__main__":
+    # This block of code will be executed only when we run this file directly
     print("Adding 2 and 3 using calculator: ", add(2, 3))
     print("Multiplying 2 and 3 using calculator: ", mul(2, 3))
